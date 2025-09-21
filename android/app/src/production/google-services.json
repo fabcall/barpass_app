@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40064082949",
+    "project_id": "prd-barpass",
+    "storage_bucket": "prd-barpass.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40064082949:android:430f518a61f2e1ccd4286c",
+        "android_client_info": {
+          "package_name": "br.com.barpass.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS2d-kRSV2RKYeSWmGrGZwBckYX2v7BRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

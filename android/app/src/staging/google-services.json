@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67493856689",
+    "project_id": "stg-barpass",
+    "storage_bucket": "stg-barpass.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67493856689:android:2acd4c1d19f60f8089e990",
+        "android_client_info": {
+          "package_name": "br.com.barpass.app.stg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc5pRlpRt1se3MqTFH8Z6mmM1L__cHMgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

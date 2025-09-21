@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23284937499",
+    "project_id": "dev-barpass",
+    "storage_bucket": "dev-barpass.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23284937499:android:84dfcece36bdcf017899be",
+        "android_client_info": {
+          "package_name": "br.com.barpass.app.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4fImh3pXXN5sYvoMd0wBpC1oSxop5XrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
