@@ -48,7 +48,7 @@ dev_dependencies:
   json_serializable: ^6.11.1
   mocktail: ^1.0.4
   riverpod_generator:
-  riverpod_lint:
+  riverpod_lint: 3.0.1
   very_good_analysis: ^9.0.0
 
 flutter:
